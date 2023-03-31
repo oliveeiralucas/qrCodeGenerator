@@ -1,0 +1,2 @@
+# qrCodeGenerator
+Esse reo

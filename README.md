@@ -3,7 +3,9 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 
-<img src="/Captura%20de%20tela%202023-03-31%20012243.png" alt="exemplo imagem">
+<img src="/preview.png" alt="exemplo imagem">
+<hr>
+<img src="/preview2.png" alt="exemplo imagem">
 <hr>
 
 >Este repositório é um projeto em HTML, CSS e JavaScript que permite gerar um QR code a partir de um link. Com ele, é possível criar um QR code personalizado para qualquer URL ou página web, diretamente em seu navegador. O código é intuitivo e fácil de entender, permitindo que qualquer pessoa possa utilizá-lo. O repositório inclui documentação detalhada sobre o funcionamento do projeto e instruções de uso, para ajudar a tornar a criação de QR codes ainda mais simples e acessível.
